@@ -17,7 +17,7 @@ Data Analyst and Business Intelligence Specialist dedicated to engineering insig
 ---
 
 ###  Featured BI Solutions & Projects
-
+- **https://github.com/komobolaji20-droid/Opay-FinTech-Analytics-Financial-Performance-Fraud-Risk-Monitoring
 - **[Logistics Performance & Risk Intelligence Dashboard](https://github.com/komobolaji20-droid/Logistics-Performance-Risk-Intelligence-Dashboard)**
   *Engineered an enterprise-grade BI solution centralizing fractured supply chain data into a single executive workspace to track carrier performance, demurrage leakage, and shipment risk.*
 
