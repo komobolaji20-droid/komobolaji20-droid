@@ -30,9 +30,10 @@ Data Analyst and Business Intelligence Specialist dedicated to engineering insig
 
 - **[E-commerce Sales Performance Dashboard](https://github.com/komobolaji20-droid/ecommerce-sales-dashboard)**
   *Executed a strategic analysis of $228K in revenue using Pareto modeling and R² correlation metrics to identify operational growth drivers and seasonal trends.*
----
-- **[Healthcare  Patient Record Dashbord].(https://github.com/komobolaji20-droid/Hospital-Patient-Records-Dashboard).**
-  *Two-page Power BI dashboard analyzing 9,500 hospital patient records covering clinical outcomes, mortality rates, revenue performance, and operational efficiency.*
+
+- **[Healthcare  Patient Record Dashbord](https://github.com/komobolaji20-droid/Hospital-Patient-Records-Dashboard)**
+
+   *Two-page Power BI dashboard analyzing 9,500 hospital patient records covering clinical outcomes, mortality rates, revenue performance, and operational efficiency.*
 ---
 
 ### 📬 Connect With Me
