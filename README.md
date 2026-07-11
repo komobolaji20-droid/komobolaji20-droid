@@ -17,6 +17,9 @@ Data Analyst and Business Intelligence Specialist dedicated to engineering insig
 ---
 
 ###  Featured BI Solutions & Projects
+- **[FMCG-Retail-Analytics-Dashboard](https://github.com/komobolaji20-droid/FMCG-Retail-Analytics-Dashboard)**
+ *Uncovered that FMCG promotions were eroding revenue by 33% despite driving 50% more volume, and that inventory was overstocked by 33.6% system-wide despite a 0% stockout rate built in Power BI from 73K+ retail transactions using Power Query, Star Schema modeling, and DAX.*
+
 - **[WHO-Global-Disease-Burden-Analysis](https://github.com/komobolaji20-droid/WHO-Global-Disease-Burden-Analysis)**
   *A comprehensive 4-page Power BI dashboard analyzing 20 years of WHO global health data across 45 countries, 13 diseases and 6 WHO regions — built with SQL Server and Power BI using a Star Schema data model and gold monochromatic design system.*
   
