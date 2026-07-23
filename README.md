@@ -17,11 +17,15 @@ Data Analyst and Business Intelligence Specialist dedicated to engineering insig
 ---
 
 ###  Featured BI Solutions & Projects
+
+- **[Nigeria-WAEC-Performance-Analytics](https://github.com/komobolaji20-droid/Nigeria-WAEC-Performance-Analytics)**
+  Uncovered a 16.2-point WAEC performance gap between Nigeria's best and worst performing regions  Power BI dashboard analyzing ~9K students across 6 geopolitical zones by school type, prep class attendance, and parental education.
+  
 - **[FMCG-Retail-Analytics-Dashboard](https://github.com/komobolaji20-droid/FMCG-Retail-Analytics-Dashboard)**
  *Uncovered that FMCG promotions were eroding revenue by 33% despite driving 50% more volume, and that inventory was overstocked by 33.6% system-wide despite a 0% stockout rate built in Power BI from 73K+ retail transactions using Power Query, Star Schema modeling, and DAX.*
 
 - **[WHO-Global-Disease-Burden-Analysis](https://github.com/komobolaji20-droid/WHO-Global-Disease-Burden-Analysis)**
-  *A comprehensive 4-page Power BI dashboard analyzing 20 years of WHO global health data across 45 countries, 13 diseases and 6 WHO regions — built with SQL Server and Power BI using a Star Schema data model and gold monochromatic design system.*
+  *A comprehensive 4-page Power BI dashboard analyzing 20 years of WHO global health data across 45 countries, 13 diseases and 6 WHO regions  built with SQL Server and Power BI using a Star Schema data model and gold monochromatic design system.*
   
 - **[Opay Fraud Risk & Financial Performance Analysis](https://github.com/komobolaji20-droid/Opay-FinTech-Analytics-Financial-Performance-Fraud-Risk-Monitoring)**
  *Two-page fintech dashboard for Opay optimizing performance and risk. Tracks ₦1.3bn transaction volume, analyzes success/failure trends, isolates KYC onboarding vulnerabilities, and maps device risk matrix to mitigate ₦287.6M in fraud losses.* 
