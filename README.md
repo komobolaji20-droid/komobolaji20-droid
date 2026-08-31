@@ -18,6 +18,9 @@ Data Analyst and Business Intelligence Specialist dedicated to engineering insig
 
 ###  Featured BI Solutions & Projects
 
+- **[Regional-Sales-Analysis-Dashboard](https://github.com/komobolaji20-droid/Regional-Sales-Analysis-Dashboard)**
+  This dashboard tracks four regional managers: Sadie (West), Magee (East), Rodriquez (Central), and Suzuki (South), across 2018 to 2021, breaking down performance by sales, profit, quantity, product segment, and category. It's designed to give leadership a fast, side by side read on regional health without digging through separate reports.
+
 - **[Nigeria-WAEC-Performance-Analytics](https://github.com/komobolaji20-droid/Nigeria-WAEC-Performance-Analytics)**
   Uncovered a 16.2-point WAEC performance gap between Nigeria's best and worst performing regions  Power BI dashboard analyzing ~9K students across 6 geopolitical zones by school type, prep class attendance, and parental education.
   
